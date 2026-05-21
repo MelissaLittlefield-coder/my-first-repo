@@ -43,4 +43,4 @@ The async help channel and office-hours link are pinned in the workshop chat. If
 
 ---
 
-*Build With AI · The BrainTrust LLC × DSU*
+*AWS MLU × DSU*
